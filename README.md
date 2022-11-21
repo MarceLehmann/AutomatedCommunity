@@ -1,1 +1,1 @@
-# AutomatedCommunity
+# Automated Community
